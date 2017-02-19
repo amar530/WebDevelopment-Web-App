@@ -96,6 +96,13 @@ body {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+@media(max-width: 250px)
+{
+  #carouselImage
+  {
+    margin-top: 20px;
+  }
+}
 
 @media (min-width: 768px) {
   /* Navbar positioning foo */
